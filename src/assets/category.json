@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "category": "Transport"
+  },
+  {
+    "id": 2,
+    "category": "Tourist"
+  },
+  {
+    "id": 3,
+    "category": "Private"
+  },
+  {
+    "id": 4,
+    "category": "Rent"
+  }
+]

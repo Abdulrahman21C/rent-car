@@ -1,0 +1,68 @@
+.containe {
+  position: relative;
+  background-color: rgb(79, 79, 145);
+}
+.buton {
+  width: 100%;
+}
+
+.bill {
+  border: 1px solid gray;
+}
+.item {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.float {
+  position: absolute;
+  bottom: 100px;
+  right: 0;
+  z-index: 9999;
+}
+
+.pickCont {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pickLablel {
+  background-color: white;
+  padding: 6px;
+  margin: 3px;
+  border-radius: 6px;
+  width: 40%;
+}
+
+.pickInput {
+  width: 50%;
+}
+.dropCont {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dropLablel {
+  background-color: white;
+  padding: 6px;
+  margin: 3px;
+  border-radius: 6px;
+  width: 40%;
+}
+
+.dropInput {
+  width: 50%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: orange;
+}
