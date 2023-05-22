@@ -59,8 +59,8 @@ export class AppComponent {
     this.nameee = 'Name:       ' + '  ' + this.form.value.name;
     this.phoneee = 'Phone:     ' + '  ' + this.form.value.phone;
     this.emailll = 'Email:     ' + '  ' + this.form.value.email;
-    this.pickupp = 'Pick UP:     ' + '  ' + this.form.value.email;
-    this.dropofff = 'Drop Off:     ' + '  ' + this.form.value.email;
+    this.pickupp = 'Pick UP:     ' + '  ' + this.form.value.pick;
+    this.dropofff = 'Drop Off:     ' + '  ' + this.form.value.drop;
     this.carr = this.form.value.car;
     this.pickup = this.form.value.pick;
     this.dropoff = this.form.value.drop;
